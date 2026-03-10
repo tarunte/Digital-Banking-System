@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BankingUiApplication<banking-ui>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.payment.bankingui.BankingUiApplication",
+            "projectName": "banking-ui",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

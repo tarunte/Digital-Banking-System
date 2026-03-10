@@ -1,0 +1,16 @@
+com\payment\bankingui\controller\TransactionController.class
+com\payment\bankingui\service\AccountNumberService.class
+com\payment\bankingui\controller\AuthController.class
+com\payment\bankingui\model\User.class
+com\payment\bankingui\model\Account.class
+com\payment\bankingui\config\SecurityConfig.class
+com\payment\bankingui\repository\AccountRepository.class
+com\payment\bankingui\BankingUiApplication.class
+com\payment\bankingui\controller\WebController.class
+com\payment\bankingui\controller\StatementController.class
+com\payment\bankingui\model\Transaction.class
+com\payment\bankingui\service\BankService.class
+com\payment\bankingui\service\PdfService.class
+com\payment\bankingui\repository\UserRepository.class
+com\payment\bankingui\service\CustomUserDetailsService.class
+com\payment\bankingui\repository\TransactionRepository.class
